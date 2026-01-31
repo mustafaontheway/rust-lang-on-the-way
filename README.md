@@ -1,6 +1,4 @@
-* Rust -> Tauri
-
-* Svelte
+* Rust 
 
 * Move 
 
