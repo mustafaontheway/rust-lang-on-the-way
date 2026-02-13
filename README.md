@@ -1,7 +1,7 @@
-* Rust 
+* Rust
 
-* Web3 & Smart Contracts
+* Web3 & Smart Contracts 
 
-* AI
+* AI 
 
 * Challenges 
